@@ -1,0 +1,14 @@
+body {
+    background: #090909;
+}
+
+.bg-black{
+    background: #000;
+}
+
+.card-project:hover{
+    box-shadow: 0px 4px 7px lightblue;
+    border: 1px solid #fff;
+    cursor: pointer;
+    transform: scale(1.1);
+}
